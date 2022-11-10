@@ -1,8 +1,8 @@
 ---
-title: "Untitled"
+title: "test rmd for git practice"
 author: "Vicky Zhang"
 date: '2022-11-10'
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
